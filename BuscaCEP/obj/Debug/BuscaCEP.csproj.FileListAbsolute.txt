@@ -1,0 +1,11 @@
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe.config
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.pdb
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.Properties.Resources.resources
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.GenerateResource.cache
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.exe
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.pdb
+C:\Users\jully\OneDrive\Documentos\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.GerenciadorCEP.resources
